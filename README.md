@@ -28,7 +28,10 @@ For testing I used Jest because it is the most popular choice these days.
 
 <img width="384" alt="testShow" src="https://github.com/AdrianVucko/Chuck-Norris-Joke-app/assets/129105028/b63d85e9-d37b-469a-a5ca-042f91209800">
 
+
+I also used ESLint for avoiding any potential bugs and Prettier for formating my code so it's more readable.
+
 # Frontend
-This task was really meant to be backend only. I only realized this after I had done most of the frontend. That's why I won't go into too much detail about the frontend. If you are still interested, there is a video presentation in which I show the functionality of the application and of course the source code.
+This task was really meant to be backend only. I only realized this after I had done most of the frontend. That's why I won't go into too much detail about the frontend. If you are still interested, there is a video presentation in which I show the full functionality of the application called "presentation.mp4". It shouldn't take too much of your time since it's only 1 minute and 48 seconds long. In addition to the video, there is also the source code.
 
 In short, the frontend is made in React with typescript. I used tailwind for css because it speeds up the process a lot. It is fully responsive.
